@@ -20,7 +20,7 @@ setup(
             'expense-bot=expense_bot.bot:main',
         ],
     },
-    author='Your Name',
+    author='Abu Shadat Shaikat',
     description='A Telegram bot for monthly expense calculation',
     long_description=long_description,
     long_description_content_type='text/markdown',
